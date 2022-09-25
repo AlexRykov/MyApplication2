@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application2</string>
+    <string name="my_second_git_project">My second GIT project !</string>
 </resources>
